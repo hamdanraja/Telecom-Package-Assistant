@@ -1,0 +1,12 @@
+pandas
+openpyxl
+pydantic>=2
+streamlit>=1.28
+ollama
+langgraph
+
+# scrapers
+requests
+beautifulsoup4
+lxml
+playwright
